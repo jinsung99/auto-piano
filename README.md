@@ -1,9 +1,11 @@
 # README
 
-## ctrl + m 입력시 악보 입력창 열림
-
-
-## https://www.visipiano.com/midi-to-json-converter/ midi 컨버트 후 output을 입력창에 붙여넣기
+## 도움말
+```
+midi파일 선택: ctrl + q
+연주 증지: ctrl + x
+midi json 수동입력: ctrl + i
+```
 
 ## shared-piano
 
